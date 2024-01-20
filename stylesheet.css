@@ -1,0 +1,52 @@
+
+body {
+background-color: gray;
+font-family: Arial, Arial Black;
+font-weight: Bolder;
+font-size: 25px;
+text-align: center;
+}
+
+label {
+font-weight: Bold;
+text-decoration: underline;
+}
+.underline {
+text-decoration: underline;
+
+}
+
+.gray {
+color: gray;
+font-size: 25px;
+}
+
+.white {
+color: white;
+}
+
+table {
+
+border-spacing: 15px;
+
+}
+
+td {
+
+border-radius: 5px;
+}
+
+.skillstyle {
+
+background-color: white;
+border: black 2px solid;
+border-spacing: 2px;
+text-align: left;
+
+}
+
+table.myFormat{ 
+
+font-size: 10px; 
+
+}
