@@ -53,6 +53,12 @@ text-align: left;
 
 }
 
+.blur {
+
+filter: blur(4px);
+
+}
+
 .dec1image {
 
 background-image: url(dec1highwaytrafficstock.jpg);
@@ -69,7 +75,7 @@ border: black 3px solid;
 
 .dec2image {
 
-background-image: url(HeywoodHospitalFront.jpg);
+background-image: url(hospitalgeneralpractice-martha-dominguez-de-gouveia-nMyM7fxpokE-unsplash.jpg);
 margin-top: 60px;
 border: black 3px solid;
 
@@ -77,7 +83,7 @@ border: black 3px solid;
 
 .acimage {
 
-background-image: url(CumberlandFarmsHeadquarters.jpg);
+background-image: url(storeaisles-franki-chamaki-ivfp_yxZuYQ-unsplash.jpg);
 margin-top: 60px;
 border: black 3px solid;
 
